@@ -1,0 +1,8 @@
+.header-bg {
+    position: absolute !important;
+    top: 0 !important;
+    border-style: none;
+    right: -1050px;
+    max-width: calc(230vw + 1670px);
+    width: 4377px;
+}
